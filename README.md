@@ -29,6 +29,7 @@ Third, go to **fxmanifest.lua** and change the manifest version to your server m
 Fourth, go to [discord developer portal](https://discord.com/developers/applications) and make an rich presence with your pictures. **REMEMBER THE NAME OF THE BIG IMAGE AND SMALL IMAGE**
 
 Now the big part. Go to **SetDiscordAppId** and replace "0" with your application client id.
+
 Next, head over to **SetDiscordRichPresenceAsset** and replace "hi big" with the picture name you gave the big image. **(REMEMBER, KEEP THE "")**
 
 Last but not least, locate to **SetDiscordRichPresenceAssetSmall** and replace "hi small" with the picture name you gave the small image. Keep the "".
