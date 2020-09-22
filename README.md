@@ -26,7 +26,8 @@ Second, put the folder in your server resources folder.
 
 Third, go to **fxmanifest.lua** and change the manifest version to your server manifest version.
 
-Fourth, go to [discord developer portal](https://discord.com/developers/applications) and make an rich presence with your pictures. **REMEMBER THE NAME OF THE BIG IMAGE AND SMALL IMAGE**
+Fourth, go to [discord developer portal](https://discord.com/developers/applications) and make an rich presence with your pictures. 
+**REMEMBER THE NAME OF THE BIG IMAGE AND SMALL IMAGE**
 
 Now the big part. Go to **SetDiscordAppId** and replace "0" with your application client id.
 
