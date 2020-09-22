@@ -4,12 +4,13 @@
 
 
 [discord-shield]: https://canary.discordapp.com/api/guilds/738859179552407612/widget.png
-[licence-shield]: https://img.shields.io/github/license/duqaqon/FiveM-Discord-Rich-Presence?style=flat-square
+[licence-shield]: https://img.shields.io/github/license/duqaqon/FiveM-Discord-Rich-Presence
 [version-shield]: https://img.shields.io/badge/version-1.0-success
 
 
 [ ![licence-shield][] ][licence]
 [ ![version-shield][] ][version]
+[ ![discord-shield][] ][discord]
 
 
 <img align="right" src="https://cdn.discordapp.com/attachments/617625850111852545/757669418045276320/a.png" height="200" width="200">
