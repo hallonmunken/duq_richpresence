@@ -20,7 +20,7 @@ This project is made for people/clients who wants a rich presence for their own 
 
 ## Setup
 
-Firstly, download this repo as a zip file. Un-extract the .zip file using WinRAR or an another extractor.
+Firstly, [download](https://github.com/duqaqon/FiveM-Discord-Rich-Presence/releases/tag/v1.0) this repo as a zip file. Un-extract the .zip file using WinRAR or an another extractor.
 
 Second, put the folder in your server resources folder.
 
