@@ -22,7 +22,7 @@ This project is made for people/clients who wants a rich presence for their own 
 
 Firstly, [download](https://github.com/duqaqon/FiveM-Discord-Rich-Presence/releases/tag/v1.0) this repo as a zip file. Un-extract the .zip file using WinRAR or an another extractor.
 
-Second, put the folder in your server resources folder.
+Second, put the downloaded folder in your server resources folder.
 
 Third, go to **fxmanifest.lua** and change the manifest version to your server manifest version.
 
