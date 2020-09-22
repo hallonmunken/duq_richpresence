@@ -30,7 +30,9 @@ Fourth, go to [discord developer portal](https://discord.com/developers/applicat
 
 Now the big part. Go to **SetDiscordAppId** and replace "0" with your application client id.
 
-Next, head over to **SetDiscordRichPresenceAsset** and replace "hi big" with the picture name you gave the big image. **(REMEMBER, KEEP THE "")**
+Next, head over to **SetDiscordRichPresenceAsset** and replace "hi big" with the picture name you gave the big image. 
+
+**(REMEMBER, KEEP THE "")**
 
 Last but not least, locate to **SetDiscordRichPresenceAssetSmall** and replace "hi small" with the picture name you gave the small image. Keep the "".
 
