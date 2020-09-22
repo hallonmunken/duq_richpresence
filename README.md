@@ -1,14 +1,14 @@
-[license]: https://github.com/duqaqon/FiveM-Discord-Rich-Presence/blob/master/LICENSE
+[lisence]: https://github.com/duqaqon/FiveM-Discord-Rich-Presence/blob/master/LICENSE
 [version]: https://github.com/duqaqon/FiveM-Discord-Rich-Presence/blob/master/version.md
 [discord]: https://discord.gg/MddcpFC
 
 
 [discord-shield]: https://canary.discordapp.com/api/guilds/738859179552407612/widget.png
-[licence-shield]: https://img.shields.io/github/license/duqaqon/FiveM-Discord-Rich-Presence
+[lisence-shield]: https://img.shields.io/github/license/duqaqon/FiveM-Discord-Rich-Presence
 [version-shield]: https://img.shields.io/badge/version-1.0-success
 
 
-[ ![licence-shield][] ][licence]
+[ ![lisence-shield][] ][lisence]
 [ ![version-shield][] ][version]
 [ ![discord-shield][] ][discord]
 
