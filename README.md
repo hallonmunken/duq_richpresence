@@ -46,7 +46,7 @@ Fork this project then send a pull request.
 
 *For major changes, please open an issue.*
 
-Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5%29-Contributing)
+Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5%29-Contributing#creating-a-pull-request)
 **Tutorial made by the JDA group, [Credits](https://github.com/DV8FromTheWorld)**
 
 ## Lisence
