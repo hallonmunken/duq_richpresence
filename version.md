@@ -2,6 +2,6 @@
 
 # Version Checker
 
-Current version: **v1.0**
+Current version: **v1.1**
 
 ```© 2020 duqaqon. All rights reserved```
