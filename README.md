@@ -1,20 +1,21 @@
 [lisence]: https://github.com/duqaqon/FiveM-Discord-Rich-Presence/blob/master/LICENSE
 [version]: https://github.com/duqaqon/FiveM-Discord-Rich-Presence/blob/master/version.md
-[discord]: https://discord.gg/MddcpFC
 
 
-[discord-shield]: https://canary.discordapp.com/api/guilds/738859179552407612/widget.png
+
+
 [lisence-shield]: https://img.shields.io/github/license/duqaqon/FiveM-Discord-Rich-Presence
 [version-shield]: https://img.shields.io/badge/version-1.1-success
 
 
 [ ![lisence-shield][] ][lisence]
 [ ![version-shield][] ][version]
-[ ![discord-shield][] ][discord]
+
 
 
 <img align="right" src="https://cdn.discordapp.com/attachments/617625850111852545/757669418045276320/a.png" height="200" width="200">
 
+### Status: Working 2021, not supported.
 # FiveM Selfhosted Rich Presence
 This project is made for people/clients who wants a rich presence for their own FiveM server. Pictures and design needs to be made by yourself in the developer portal.
 
