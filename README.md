@@ -58,4 +58,4 @@ Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTh
 You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) lisence.
 If you remove any credits in the project/source code, I will take legal actions.
 
-``©2021duqaqon. All rights reserved``
+``©2021 duqaqon. All rights reserved``
