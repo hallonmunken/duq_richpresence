@@ -15,7 +15,7 @@
 
 <img align="right" src="https://cdn.discordapp.com/attachments/617625850111852545/757669418045276320/a.png" height="200" width="200">
 
-### Status: Working 2021, not supported.
+### Status: Working 2021, supported.
 # FiveM Selfhosted Rich Presence
 This project is made for people/clients who wants a rich presence for their own FiveM server. Pictures and design needs to be made by yourself in the developer portal.
 
