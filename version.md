@@ -4,4 +4,4 @@
 
 Current version: **v1.1**
 
-```© 2020 duqaqon. All rights reserved```
+```© 2021 duqaqon. All rights reserved```
